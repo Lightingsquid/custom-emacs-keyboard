@@ -17,8 +17,8 @@ This project is my attempt to design a keyboard that combines the advantages of 
 The layout is still experimental, and community feedback is welcome.
 
 ## Current Layout
+<img width="1117" height="338" alt="image" src="https://github.com/user-attachments/assets/7e5ad95a-748f-46fb-b154-4b57cbca4a2f" />
 
-![Keyboard Layout](layout-v1.png)
 
 ### Key Features
 
